@@ -1,0 +1,18 @@
+
+>
+CMakeLists.txt,9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae
+<
+MainWindow.h,b/0/b0a2cc1112b650e46475854b6e795749ad6f2cf4
+8
+main.cpp,6/8/682a50d19e416195436708e48c7761923b8d6651
+8
+Sommet.h,a/3/a34a2c8f158f60fcc36ef9f16be8694efd7dbaa7
+9
+	Polygon.h,a/8/a8edb1a77d172c95eb44716bd02f59865f734b3d
+>
+MainWindow.cpp,3/1/31cc76ccc4119f7c4c6f79396709a713678dbf44
+;
+Polygon.cpp,9/4/944ac0265c5d324b57e9d48dacea5d334203a7c9
+:
+
+Sommet.cpp,4/c/4c5291d8c09521b216da4cbb0937565530d40723

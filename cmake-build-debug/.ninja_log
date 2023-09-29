@@ -1,0 +1,29 @@
+# ninja log v5
+1823	2304	1696001138913434275	algoGeo	97c7e00ee4924910
+7	851	1696001030201873000	CMakeFiles/algoGeo.dir/Polygon.cpp.o	634bf0407cdd0028
+1	53	1696001258697036337	build.ninja	bf25c6fd75eb6f36
+4	901	1695945501618388691	CMakeFiles/algoGeo.dir/Point.cpp.o	7022be402d0dd0a8
+8	1015	1695996243910200201	CMakeFiles/algoGeo.dir/Sommet.cpp.o	3df14d7394f2ca36
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+7	2531	1695996245426165566	CMakeFiles/algoGeo.dir/main.cpp.o	cf49ca8f58bbd1fc
+1	6	0	CMakeFiles/algoGeo_autogen	2da0513d380b610c
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/algoGeo_autogen	2da0513d380b610c
+7	1823	1696001138437436023	CMakeFiles/algoGeo.dir/MainWindow.cpp.o	6bb291d457da2ec3
+1	6	0	algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+7	2153	1695996245050174143	CMakeFiles/algoGeo.dir/algoGeo_autogen/mocs_compilation.cpp.o	7181f051df204e1d
+1	6	0	CMakeFiles/algoGeo_autogen	2da0513d380b610c
+1	6	0	algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/algoGeo_autogen	2da0513d380b610c
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+6	40	1696001405840643677	CMakeFiles/algoGeo.dir/Point.cpp.o	7022be402d0dd0a8
+41	588	1696001406384642390	algoGeo	40904abe223a2d69
+1	6	0	CMakeFiles/algoGeo_autogen	2da0513d380b610c
+1	6	0	algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/algoGeo_autogen	2da0513d380b610c
+1	6	0	/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/algoGeo_autogen/mocs_compilation.cpp	2da0513d380b610c
+7	1081	1696001512060411865	CMakeFiles/algoGeo.dir/Sommet.cpp.o	3df14d7394f2ca36
+7	1318	1696001512300411383	CMakeFiles/algoGeo.dir/Polygon.cpp.o	634bf0407cdd0028
+6	2251	1696001513232409511	CMakeFiles/algoGeo.dir/algoGeo_autogen/mocs_compilation.cpp.o	7181f051df204e1d
+7	2271	1696001513252409472	CMakeFiles/algoGeo.dir/MainWindow.cpp.o	6bb291d457da2ec3
+7	2863	1696001513844408284	CMakeFiles/algoGeo.dir/main.cpp.o	cf49ca8f58bbd1fc
+2863	3345	1696001514320407330	algoGeo	40904abe223a2d69

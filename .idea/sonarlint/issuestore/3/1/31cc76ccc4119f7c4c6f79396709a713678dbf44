@@ -1,0 +1,6 @@
+
+{	cpp:S5350"_Make the type of this variable a pointer-to-const. The current type of "s" is "class Sommet *".(±‰İÏ8ˆ² ô­1
+H	cpp:S5827%"'Replace the redundant type with "auto".(‡–ïëùÿÿÿÿ8…„£ô­1
+H	cpp:S5827&"'Replace the redundant type with "auto".(ÚçùÏûÿÿÿÿ8…„£ô­1
+J	cpp:S5817,")This function should be declared "const".(ïëÕåúÿÿÿÿ8âªïƒ®1
+€	cpp:S5350."_Make the type of this variable a pointer-to-const. The current type of "s" is "class Sommet *".(Â‘Ô´şÿÿÿÿ8šùÊõ­1

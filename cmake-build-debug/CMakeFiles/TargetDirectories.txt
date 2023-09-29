@@ -1,0 +1,4 @@
+/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/algoGeo.dir
+/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oreste/Desktop/M1/Algorithme geometrique (Dom)/algoGeo/cmake-build-debug/CMakeFiles/algoGeo_autogen.dir

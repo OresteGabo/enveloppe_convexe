@@ -1,0 +1,10 @@
+
+r	cpp:S3490
+"VUse "=default" instead of the default implementation of this special member functions.(¼Åèæ8âóÊó­1
+C	cpp:S5827"'Replace the redundant type with "auto".(Òû³½8úŠ³ö­1
+m	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(Òû³½8ãóÊó­1
+V	cpp:S5025-":Rewrite the code so that you no longer need this "delete".(‡…Òİ8ÌÆ»ƒ®1
+€	cpp:S53501"_Make the type of this variable a pointer-to-const. The current type of "s" is "class Sommet *".(£ÁÃ°úÿÿÿÿ8¿ “õ­1
+€	cpp:S5350>"_Make the type of this variable a pointer-to-const. The current type of "s" is "class Sommet *".(£ÁÃ°úÿÿÿÿ8Ìà“õ­1
+‹	cpp:S3230"pDo not use the constructor's initializer list for data member "d_premier". Use the in-class initializer instead.(š¦´s8éóÊó­1
+9cpp:S1259"Remove the commented out code.(‘àãŸ8æ “õ­1
